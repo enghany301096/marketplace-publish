@@ -1,0 +1,4 @@
+interface:
+  display_name: "تجهيز النشر على المتاجر"
+  short_description: "تجهيز المشاريع للنشر على بيكاليكا وCodeCanyon"
+  default_prompt: "استخدم $marketplace-publish لتجهيز المشروع للنشر على بيكاليكا وCodeCanyon بالسعر والمجلدات التي أحددها."
